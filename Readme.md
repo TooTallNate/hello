@@ -7,3 +7,5 @@ Hello world `import` module
 import tootallnate/hello
 hello
 ```
+
+Here's a [subpage](./docs/subpage.md).
