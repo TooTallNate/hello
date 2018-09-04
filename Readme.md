@@ -1,11 +1,9 @@
 # hello
 
-Hello world `import` module
+Hello world [`import`](https://import.pw) module.
 
 ```bash
 #!/usr/bin/import
 import tootallnate/hello
 hello
 ```
-
-Here's a [subpage](./docs/subpage.md).
