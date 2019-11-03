@@ -1,3 +1,2 @@
-hello() {
-  echo "Hello, from @TooTallNate!"
-}
+#!/bin/sh
+echo "Hello, from me!"
