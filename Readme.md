@@ -3,7 +3,7 @@
 Hello world [`import`](https://import.pw) module.
 
 ```bash
-#!/usr/bin/import
-import tootallnate/hello
+#!/usr/bin/env import
+import "tootallnate/hello"
 hello
 ```
